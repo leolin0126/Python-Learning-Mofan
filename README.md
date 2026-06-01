@@ -9,9 +9,8 @@
 
 ## 📂 仓库结构
 ├── basis_mofan / # Python 基础语法代码
-├── 02_matplotlib 绘图 / # matplotlib 绘图代码（散点图 / 等高线 / 3D 图）
-├──
-├──
-├──
-
+├── matplotlib_mofan / # matplotlib 绘图代码（散点图 / 等高线 / 3D 图）
+├── multiprocessing_mofan / # 多核处理任务
+├── numpy_pandas_mofan / # 科学运算，数据分析
+├── multiprocessing_mofan / # 多线程处理任务
 └── README.md # 学习说明
