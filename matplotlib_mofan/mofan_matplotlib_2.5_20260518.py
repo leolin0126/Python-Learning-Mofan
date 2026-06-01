@@ -1,4 +1,4 @@
-# Matplotlib 中 Figure 的坐标轴设置1
+# Matplotlib 中 Legend 图例
 
 import numpy as np
 import pandas as pd
