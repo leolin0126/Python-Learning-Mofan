@@ -10,8 +10,8 @@
 | **基础统计** | `01_Basis` | Python 基础语法、统计学基础练习 | ✅ 已完成 |
 | **多线程编程** | `02_Threading` | 并发编程、线程锁、生产者消费者模型 | ✅ 已完成 |
 | **多进程编程** | `03_Multiprocessing` | 进程池、进程间通信 (IPC) | ✅ 已完成 |
-| **数据分析** | `04_Numpy_Pandas_Data_Analysis` | 数据清洗、DataFrame 操作、Numpy 矩阵运算 | ✅ 进行中 |
-| **数据可视化** | `05_Matplotlib_Data_Visualization` | 折线图、散点图、3D 绘图、生物信息热图模拟 | 🚧 待完善 |
+| **数据分析** | `04_Numpy_Pandas_Data_Analysis` | 数据清洗、DataFrame 操作、Numpy 矩阵运算 | ✅ 已完成 |
+| **数据可视化** | `05_Matplotlib_Data_Visualization` | 折线图、散点图、3D 绘图、生物信息热图模拟 | ✅ 已完成 |
 
 > 💡 **提示**：点击上方的文件夹名称可直接查看对应源码。
 
